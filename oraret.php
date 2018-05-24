@@ -33,9 +33,6 @@
                         </li>
                         <li class="nav-item">
                             <a class="nav-link active" href="">Oraret</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="/">Dil</a>
                         </li>';
                 }
                 if($admin == 1){
@@ -51,6 +48,9 @@
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="perdoruesitAdmin.php">Lista e perdoruesve</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/">Dil</a>
                         </li>';
                 }
             ?>

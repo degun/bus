@@ -14,8 +14,6 @@
         $_SESSION['orarID'] = "";
         $_SESSION['perdoruesId'] = "";
         $_SESSION['rezervimId'] = "";
-        require_once("connection.php");
-        '';
     ?>
     <div id="mireseerdhet" class="container col-12">
         <div class="row">
